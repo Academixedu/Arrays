@@ -10,10 +10,9 @@ public static void main(String[] args) {
         f[i]=z;
 
     }
-    for (int i : f) {
-        System.out.println(i);
+  
     }
     
     }
-}
+
 
