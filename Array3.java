@@ -1,7 +1,6 @@
 import java.util.Scanner;
 public class Array3{
     public static void main(String[] args) {
-        // Prepare an Element of an Array and Implement Values using Scanner
         Scanner in=new Scanner(System.in);
         int[] a=new int[5];
         for(int i=0;i<=a.length-1;i++){
