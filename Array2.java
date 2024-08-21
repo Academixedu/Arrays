@@ -1,3 +1,9 @@
 public class Array2{
-  // Prepare an Array with values of 1,2,3,4,5 and replace the value at 3rd index with 45
+  public static void main(String[] args) {
+    int[] array = {1, 2, 3, 4, 5};
+    array[3] = 45;
+    for (int i = 0; i < array.length; i++) {
+        System.out.print(array[i] + " ");
+    }
+}
 }
